@@ -143,7 +143,7 @@ body {
 .first-section {
     background-image: 
     linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(../images/people-office.jpg);
+    url(./people-office.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1440px;
@@ -152,7 +152,7 @@ body {
 }
 
 .section-future {
-    background-image: url(../images/elektricka-podpis.jpg);
+    background-image: url(./elektricka-podpis.jpg);
     /* linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)); */
     background-repeat: no-repeat;
     background-position: center;
